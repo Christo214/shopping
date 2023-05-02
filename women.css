@@ -1,0 +1,178 @@
+*{
+	margin:0;
+	padding:0;
+	box-sizing:border-box;
+}
+.main_class{
+	border:2px solid;
+	margin:0 auto;
+	width:100%;
+	padding:10px;
+}
+.heading
+{
+	width:500px;
+	display:flex;
+	gap:10px;
+}
+.image_class
+{
+	padding:5px;
+	width:500px;
+}
+.image_class img
+{
+	width:500px;
+	border-radius:10px;
+}
+.img1_class
+{
+	width:250px;
+}
+.sub_class
+{
+	width:500px;
+}
+.content_class
+{
+	width:500px;
+	padding:0px 20px;
+}
+.img1_class img
+{
+	width:250px;
+	border-radius:10px;
+}
+.img_div
+{
+	display:flex;
+	gap:6px;
+	padding:4px;
+}
+.sub_cont
+{
+	display:flex;
+}
+.basic
+{
+	margin-top:20px;
+	display:flex;
+	justify-content:space-between;
+}
+.rating
+{
+	margin-top:5px;
+	display:flex;
+	align-items:center;
+}
+.rating span
+{
+	font-size:20px;
+	color:gold;
+	margin-left:8px;
+}
+.rating p
+{
+	color:blue;
+	margin-left:20px;
+}
+.round1
+{
+	width:30px;
+	height:30px;
+	background-color:black;
+	border:2px black solid;
+	padding:5px;
+	border-radius:40px;
+}
+.round2
+{
+	width:30px;
+	height:30px;
+	background-color:gray;
+	border-radius:50px;
+}
+.rounds
+{
+	margin-top:10px;
+	display:flex;
+	align-items:center;
+	gap:10px;
+}
+h3
+{
+	margin-top:30px;
+}
+.size
+{
+	margin-top:30px;
+	display:flex;
+	justify-content:space-between;
+}
+.size p
+{
+	color:blue;
+}
+.totalsize
+{
+	margin-top:20px;
+	display:flex;
+	justify-content:space-evenly;
+}
+.totalsize p
+{
+	width:60px;
+	height:40px;
+	text-align:center;
+	border:1px solid gray;
+	padding:10px;
+	border-radius:5px;
+}
+button
+{
+	font-weight:bold;
+	color:white;
+	margin-top:20px;
+	background-color:blue;
+	border:none;
+	padding:13px;
+	width:100%;
+	border-radius:10px;
+}
+.content1{
+	margin-top:20px;
+}
+.content1 p
+{
+	line-height:1.5;
+	text-indent:20px;
+}
+.item
+{
+	margin-top:30px;
+}
+.item ul
+{
+	margin-top:20px;
+	margin-left:30px;
+}
+.finish
+{
+	margin-top:30px;
+	display:flex;
+	justify-content:space-between;
+}
+.left
+{
+	padding:10px;
+	text-align:center;
+	border:1px solid gray;
+	background-color:lightgray;
+}
+.right
+{
+	padding:15px;
+	text-align:center;
+	border:1px solid gray;
+	background-color:lightgray;
+}
